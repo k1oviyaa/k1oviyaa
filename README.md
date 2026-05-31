@@ -1,18 +1,25 @@
-# Hi there! 👋 I'm Oviyaa, Aspiring developer and Data Analyst
+# Hi there! I'm Oviyaa K 👋
 
-🔹 Skills: Python | SQL | Excel | Power BI | Data Visualization | EDA  |javascript
-🔹 Passion:Passionate about building projects,turning raw data into actionable insights
+🎓 B.Tech CSE Graduate (2025) — Manakula Vinayagar Institute of Technology
 
-## My Projects
+💼 Aspiring SAP ABAP Developer
 
-1. [Customer Behaviour Analysis] (https://github.com/k1oviyaa/Customer_behaviour_analysis_dashboard)
-   **Tools:** Python, SQL, Power BI  
-   **Description:** Analyzed customer purchase patterns and created interactive dashboards to identify trends.
+## 🔧 Technical Skills
+- SAP ABAP | SE11 | SE38 | SE80 | SE37 | SE18
+- SAP S/4HANA | CDS Views | Eclipse ADT
+- Enhancement Spots | ALV Reports | Function Modules
+- Python | SQL | Flask
 
-2. [Deep Learning Based Chest X-Ray Analysis for Early Lung Disease Detection] (https://github.com/k1oviyaa/DEEP-LEARNING-BASED-CHEST-X-RAY-ANALYSIS-FOR-EARLY-LUNG-DISEASE-DETECTION)  
-   **Tools:** Python, TensorFlow, Keras, VGG19, Capsule Networks, NumPy, Matplotlib, Scikit-learn  
-   **Description:** Developed a deep learning model to detect and classify lung diseases from chest X-ray images using a hybrid VGG19 and Capsule Network architecture to improve diagnostic accuracy.
-   
- 3.  [Face-Recognition-Attendance-System] (https://github.com/k1oviyaa/Face-Recognition-Attendance-System)
-Tools: Python, OpenCV, dlib, Flask, SQLite, Tkinter, NumPy, Pandas
-Description: Built an end-to-end face recognition-based attendance system. The system captures faces via webcam, extracts features for recognition, marks attendance automatically, and displays it on a web interface using Flask. Designed to automate attendance management in classrooms or offices.
+## 🚀 Projects
+- 🔹 [Employee Management System - SAP ABAP](https://github.com/k1oviyaa/sap-abap-employee-management-system)
+- 🔹 Face Recognition Attendance System - Python(https://github.com/k1oviyaa/Face-Recognition-Attendance-System)
+- 🔹 Lung Disease Detection - Deep Learning(https://github.com/k1oviyaa/DEEP-LEARNING-BASED-CHEST-X-RAY-ANALYSIS-FOR-EARLY-LUNG-DISEASE-DETECTION)
+
+## 📚 Currently Learning
+- SAP ABAP on S/4HANA
+- CDS Views & OData
+- RAP (Restful ABAP Programming)
+
+## 📫 Contact
+- 📧 koviyaa2004@gmail.com
+- 📍 Puducherry, India
