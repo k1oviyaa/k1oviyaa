@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE Graduate (2025) — Manakula Vinayagar Institute of Technology
 
-💼 Aspiring SAP ABAP Developer
+💼💻 Aspiring Software Developer | SAP ABAP | Python | SQL
 
 ## 🔧 Technical Skills
 - SAP ABAP | SE11 | SE38 | SE80 | SE37 | SE18
@@ -11,9 +11,9 @@
 - Python | SQL | Flask
 
 ## 🚀 Projects
-- 🔹 [Employee Management System - SAP ABAP](https://github.com/k1oviyaa/sap-abap-employee-management-system)
-- 🔹 Face Recognition Attendance System - Python(https://github.com/k1oviyaa/Face-Recognition-Attendance-System)
 - 🔹 Lung Disease Detection - Deep Learning(https://github.com/k1oviyaa/DEEP-LEARNING-BASED-CHEST-X-RAY-ANALYSIS-FOR-EARLY-LUNG-DISEASE-DETECTION)
+- 🔹 Face Recognition Attendance System - Python(https://github.com/k1oviyaa/Face-Recognition-Attendance-System)
+- 🔹 [Employee Management System - SAP ABAP](https://github.com/k1oviyaa/sap-abap-employee-management-system)
 
 ## 📚 Currently Learning
 - SAP ABAP on S/4HANA
